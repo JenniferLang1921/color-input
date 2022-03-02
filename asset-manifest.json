@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-input/static/css/main.f99602f9.css",
+    "main.js": "/color-input/static/js/main.3be27b27.js",
+    "index.html": "/color-input/index.html",
+    "main.f99602f9.css.map": "/color-input/static/css/main.f99602f9.css.map",
+    "main.3be27b27.js.map": "/color-input/static/js/main.3be27b27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f99602f9.css",
+    "static/js/main.3be27b27.js"
+  ]
+}
